@@ -3,9 +3,7 @@
   <img src="./Portfolio%20Banner.png" width="100%" alt="Safayet Hossain Sadhin - GitHub Banner" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Md.%20Safayet%20Hossain%20Sadhin&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20%26%20Software%20Engineering%20%7C%20Digital%20Transformation%20%7C%20AI-Driven%20Applications&descAlignY=60&descSize=15" width="100%" alt="header" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Md.%20Safayet%20Hossain%20Sadhin&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20%26%20Software%20Engineering%20%7C%20Digital%20Transformation%20%7C%20AI-Driven%20Applications&descAlignY=60&descSize=15" width="100%" alt="header" /> </p>
 
 <p align="center">
   <a href="https://github.com/safayetsadhin">
