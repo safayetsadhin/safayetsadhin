@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Portfolio Banner.png" width="100%" alt="Safayet Hossain Sadhin - GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Safayet Hossain Sadhin</h1>
 <h3 align="center">Full-Stack Developer | ECE Graduate | Technology Enthusiast</h3>
 
